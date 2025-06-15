@@ -59,10 +59,10 @@ Aplikacja konsolowa napisana w Javie implementująca kompleksowy system zarządz
 - (Opcjonalnie) Maven 3.6+ do zarządzania zależnościami
 
 ## Autor
--Michał Mytych
+Michał Mytych
 
--Uniwersytet Rzeszowski
+Uniwersytet Rzeszowski
 
--Informatyka i ekonometria  
+Informatyka i ekonometria  
 
--Rok akademicki: 2024/2025
+Rok akademicki: 2024/2025
