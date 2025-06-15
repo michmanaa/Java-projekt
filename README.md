@@ -60,6 +60,9 @@ Aplikacja konsolowa napisana w Javie implementująca kompleksowy system zarządz
 
 ## Autor
 -Michał Mytych
+
 -Uniwersytet Rzeszowski
+
 -Informatyka i ekonometria  
+
 -Rok akademicki: 2024/2025
